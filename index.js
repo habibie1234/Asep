@@ -13,7 +13,7 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'REUZ BOT☄'; 
+const BotName = 'Asep☄'; 
 const instagram = 'https://instagram.com/habibiealamiin'; 
 const telegram = 'https://t.me/'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
