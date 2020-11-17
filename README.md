@@ -23,7 +23,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > npm i -g cwebp
 > npm i -g ytdl
 > npm i
->npm i got
+> npm i got
 > node index js
 ```
 
